@@ -3,7 +3,8 @@
 layout: home
 
 hero:
-  name: "glimmer docs"
+  name: "Glimmer"
+  text: "The cross-platform graphics library"
   actions:
     - theme: brand
       text: Getting started 
@@ -13,11 +14,11 @@ hero:
       link: /api-references
 
 features:
-  - title: Feature A
+  - title: Open source 
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
+  - title: Feature rich
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
+  - title: Extensible
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---
 
